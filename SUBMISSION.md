@@ -5,16 +5,16 @@ real answers here - the `TODO`s must be gone before the check turns green.
 
 ## Name
 
-TODO - your full name
+Abdoulrahman Salma
 
 ## What I learned
 
-TODO - two or three sentences on something that clicked this lab
+I learned how to create issues and pull requests. How to manage working in different branches (so far)
 
 ## A Git command I will remember
 
-TODO - name one command and say, in a sentence, when you'd reach for it
+(git switch -c) I would reach for this command whenever I need to create and jump to a new feature branch (like feat/favourite-language) before making changes, keeping my main branch clean.
 
 ## Evidence (links)
 
-- Merged pull request: TODO (paste the PR URL)
+- Merged pull request:  (paste the PR URL)
