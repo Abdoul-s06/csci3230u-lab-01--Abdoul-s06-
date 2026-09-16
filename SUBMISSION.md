@@ -1,8 +1,5 @@
 # Lab 01 - Submission
 
-Fill in each section below. The automated check (and your TA) will look for
-real answers here - the ___ must be gone before the check turns green.
-
 ## Name
 
 Abdoulrahman Salma
@@ -17,4 +14,4 @@ I learned how to create issues and pull requests. How to manage working in diffe
 
 ## Evidence (links)
 
-- Merged pull request:  (paste the PR URL)
+- Merged pull request:  ([paste the PR URL](https://github.com/Abdoul-s06/csci3230u-lab-01--Abdoul-s06-/pull/2))
